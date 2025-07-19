@@ -1,2 +1,2 @@
 # Microsoft-Stock
-A timne series analysis of Microsoft stock.
+A time series analysis of Microsoft stock.
